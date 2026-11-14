@@ -2,11 +2,7 @@
 % Run with:  ?- login.
 
 % ------------------------------------------------------------
-% Task 2 - Login Page
-%   ?- login.
-%   Type the username and password followed by a full stop,
-%   e.g.  haneen.   and   1234.
-% ------------------------------------------------------------
+
 
 % The dataset of users: user(Username, Password)
 user(haneen, 1234).
